@@ -24,7 +24,8 @@ Guidance of data/code usage
 
 Acknowledgments
 ---
-This code benefits from [ReCoNet: Real-time Coherent Video Style Transfer Network](https://github.com/changgyhub/reconet)
+This code benefits from [ReCoNet: Real-time Coherent Video Style Transfer Network](https://github.com/changgyhub/reconet). <br>
+Our method/code is based on this code and improve it for our map art applications
 
 Citation
 ---
