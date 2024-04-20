@@ -6,6 +6,7 @@ Paper
 ---
 * Published online on ACM TOMM, [link](https://dl.acm.org/doi/full/10.1145/3572030)
 * Project website: [link](http://graphics.csie.ncku.edu.tw/MArtVi/)
+* Paper [pdf](ACM_TOMM_MapArt_Animation.pdf)
 
 Introduction
 ---
