@@ -19,7 +19,7 @@ Guidance of data/code usage
 * Folder 'data': involves digital map, video content, m-Vi video
 * Folder 'weight': all trained models used in this work.
 * Folder 'style': consists of map art styles
-* pasteOnmap.py: taking content video and a map to produce so-called m-Vi
+* pasteOnmap.py: takes content video and a map to produce so-called m-Vi
 * infer.py --mode video --source ./data/withmap/ --model ./weight/3390454_orig_epoch_0_0630_test.pth --outputpath ./output/
 
 Acknowledgments
