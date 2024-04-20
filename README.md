@@ -1,6 +1,5 @@
 # Structure-aware Video Style Transfer with Map Art
-by [Thi-Ngoc-Hanh Le](https://lehanhcs.github.io/), Ya-Hsuan Chen, and [Tong-Yee Lee](https://scholar.google.com/citations?user=V3PTB98AAAAJ&hl=en&oi=ao). <br>
-[Computer Graphics Group](http://graphics.csie.ncku.edu.tw/) at National Cheng-Kung University. <br>
+by [Thi-Ngoc-Hanh Le](https://lehanhcs.github.io/), Ya-Hsuan Chen, and [Tong-Yee Lee](https://scholar.google.com/citations?user=V3PTB98AAAAJ&hl=en&oi=ao). National Cheng-Kung University. <br>
 Training code will be updated.
 
 Paper
