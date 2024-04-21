@@ -11,7 +11,7 @@ Paper
 Introduction
 ---
 This resposity is the official implementation of our method MAViNet. This paper has been published on ACM Transactions on Multimedia Computing, Communications, and Applications. <br>
-Unlike the realm of transferring oil painting style, our MAViNet solves the problems of transferring map art styles to video.
+Unlike the realm of oil painting style transfer, our MAViNet solves the problems of transferring map art styles to video. Map art is the modern art of pencil drawing by the British artist [Ed Fairburn](https://edfairburn.com/).
 ![teaser_git](https://github.com/LeHanhcs/MapArt_animation/assets/37010753/dc71667a-1804-4bfc-bbfe-619ac334cb7e)
 
 
